@@ -49,7 +49,7 @@ func_category() {
 func_category Accessories
 
 list=(
-variety
+#variety
 )
 
 count=0
@@ -66,7 +66,7 @@ func_category Development
 list=(
 atom
 meld
-sublime-text-dev
+#sublime-text-dev
 )
 
 count=0
@@ -82,8 +82,8 @@ func_category Graphics
 
 list=(
 gimp
-inkscape
-nomacs
+#inkscape
+#nomacs
 )
 
 count=0
@@ -131,6 +131,7 @@ func_category Office
 
 list=(
 evince
+wps-office
 )
 
 count=0
